@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The aim of this document is to reproduce the new Fish Index calculation done in the "Intercalibration Technical Report: Cross-GIG Rivers – Fish Fauna." (hereafter: CrossGIG). It also aims to highlight the minimal input data needed to perform the calcualtions.
 In 
-order to work this script needs the models to compute the predicted metrics and the input data tables. These can be found in the data forlder in the github repository of this project: 
+order to work this script needs the models to compute the predicted metrics and the input data tables. These can be found in the data forlder in the github repository of this project: https://github.com/rix133/IntercalibAnnexesJKI
 
 The orignal CrossGIG database as well as sample scripts how to calculate the Index and the needed extra tables was kindly provided by Olivier Delaigue (personal communication). We have currenlty not asked for premission to publish this data. Hence only the minimal set of data needed to do the calcualtions for Estonian sites is included in this report. 
 ```{r}
